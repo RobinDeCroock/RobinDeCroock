@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobinDeCroock
-- 👀 I’m interested in .NET 
-- 🌱 I’m currently learning React / Razor / PHP
-- 💞️ I’m looking to collaborate on .NET WPF Applications
+- 👀 I’m interested in .NET / React / Angular.js / 
+- 🌱 I’m currently learning Vite / Razor / PHP
+- 💞️ I’m looking to collaborate on WEB Applications
 - 📫 How to reach me:
 
 info@digidev.pro
