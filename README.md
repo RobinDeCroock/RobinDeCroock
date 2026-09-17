@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @RobinDeCroock
-- 👀 I’m interested in .NET / React / Angular.js / 
-- 🌱 I’m currently learning Vite / Razor / PHP
-- 💞️ I’m looking to collaborate on WEB Applications
-- 📫 How to reach me:
+## Robin De Croock
 
-[digital-development.be](http://digital-development.be/)
+Power Platform developer in Belgium. In the evenings I run DigiDev, where I build small WordPress
+plugins that each do one thing and ask for the least access the platform allows.
 
-<!---
-RobinDeCroock/RobinDeCroock is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### What I'm building
+
+**One Folder Gallery for OneDrive** — shows the photos from one OneDrive folder as a gallery on a
+WordPress site, with albums and a lightbox. It can only reach its own app folder: Microsoft refuses
+everything else at the API level, so a bug in the plugin cannot widen the hole. In development, and
+free when it ships.
+
+Why that matters, and the plugins as they appear, are on **[digital-development.be](https://digital-development.be)**.
+
+### What I work with
+
+Power Platform and .NET during the day. React and Razor on the web side, and PHP for the WordPress
+work.
+
+### Reaching me
+
+In writing, at **info@digital-development.be**. I don't take client work or custom development,
+only products that anyone can install.
